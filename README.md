@@ -20,4 +20,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Bistrô do Marcio](https://pizzaria-b7web.netlify.app/)
+- [Bistrô do Marcio](https://bistro-do-marcio.netlify.app/)
